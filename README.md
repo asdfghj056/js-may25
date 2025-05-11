@@ -1,2 +1,2 @@
 # js-may25
-javaScript
+Learn javaScript
